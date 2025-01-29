@@ -8,29 +8,17 @@ body{
 }
 
 header{
-    height: 70px;
-    width: 100%;
     background-color: white;
-    margin-top: 0px;
+    padding: 10px 20px;
 }
 .logo{
-    display: inline-block;
-    width: 50px;
-    margin-left: 20px;
-    position: relative;
-    bottom: 10px;
-    top: 10px;
-
-
+    vertical-align: middle;
 }
 
 .title{
-    display: inline-block;
-    margin-left: 10px;
-    color: black;
-    margin: 0px;
-    position: relative;
-    bottom: 5px;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: bold;
 }
 .container{
     background-color: white;
