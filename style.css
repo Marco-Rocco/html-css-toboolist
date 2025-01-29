@@ -51,6 +51,8 @@ nav{
 .list.section{
     margin-top: 35px;
     margin-left: 35px;
+    padding: 0px;
+    list-style-type: none;
 }
 
 .row {
